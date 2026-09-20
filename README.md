@@ -1,2 +1,3 @@
 # ai
 claude code
+opencode
