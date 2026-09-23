@@ -2,3 +2,4 @@
 claude code
 opencode
 chatgpt
+deepseek
