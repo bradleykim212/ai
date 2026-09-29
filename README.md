@@ -4,3 +4,4 @@ opencode
 chatgpt
 deepseek
 minixmax
+glm
