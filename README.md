@@ -5,3 +5,4 @@ chatgpt
 deepseek
 minixmax
 glm
+minmax
