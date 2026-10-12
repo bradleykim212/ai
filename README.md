@@ -6,3 +6,4 @@ deepseek
 minixmax
 glm
 minmax
+doubao
