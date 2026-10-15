@@ -7,3 +7,4 @@ minixmax
 glm
 minmax
 doubao
+kimi3
