@@ -8,3 +8,4 @@ glm
 minmax
 doubao
 kimi3
+workbuudy
